@@ -45,7 +45,7 @@ Feel free to go through my projects, the good stuff though are private 😎 ...
    - [CelluloidPubsub](https://github.com/bogdanRada/celluloid_pubsub) is a simple ruby implementation of publish subscribe design patterns using celluloid actors and websockets, using Celluloid::Reel server
    - [CelluloidPubsubRedisAdapter](https://github.com/bogdanRada/celluloid_pubsub_redis_adapter) is a simple ruby implementation of publish subscribe design patterns using celluloid actors and websockets, using Celluloid::Reel server and redis as a publish subscribe backend
    
-   💬 Feel free to contact me about any problems you have with this projects. I only archived them temporarily because celluloid was archived, but if needed i can un-archive them and fix any bugs you find. Thank you :)  
+   💬 Feel free to contact me about any problems you have with these projects. I only archived them temporarily because celluloid was archived, but if needed i can un-archive them and fix any bugs you find. Thank you :)  
   
 ### Projects i contributed to
  - [sprockets-less](https://github.com/lloeki/sprockets-less) - see [PR](https://github.com/lloeki/sprockets-less/pull/5)
