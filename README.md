@@ -26,7 +26,7 @@ Feel free to go through my projects, the good stuff though are private 😎 ...
 - [CapistranoSentinel](https://github.com/bogdanRada/capistrano_sentinel)  allows you to emit websocket events before a task is invoked by Capistrano.
 
 - [Ruby gem downloads Badge](https://github.com/bogdanRada/ruby-gem-downloads-badge)
-  
+    - Here are some examples using the `rails` gem. Please use though your own gem when integrating the badges on your readme. This is just for demo purposes. 
     -  ![](https://ruby-gem-downloads-badge.herokuapp.com/rails?type=total)
     -  ![](https://ruby-gem-downloads-badge.herokuapp.com/rails?type=total&metric=true)
  
