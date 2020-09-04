@@ -31,7 +31,7 @@ Feel free to go through my projects, the good stuff though are private 😎 ...
  ![](https://ruby-gem-downloads-badge.herokuapp.com/rails?metric=true)
  
 - [WashOutBuilder](https://github.com/bogdanRada/washout_builder)  is a Soap Service Documentation generator extends WashOut 
-    Check out the demo [here](http://washout-builder.herokuapp.com/)  by clicking on the `Documentation` links 
+    - Check out the demo [here](http://washout-builder.herokuapp.com/)  by clicking on the `Documentation` links 
     
 - [Asana Exception Notifier](https://github.com/bogdanRada/asana_exception_notifier) allows you to send notifications to Asana when a exception happens in Rails or Rack-based apps by creating a task and uploading exception details to the task
  
