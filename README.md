@@ -35,12 +35,18 @@ Feel free to go through my projects, the good stuff though are private 😎 ...
     
 - [Asana Exception Notifier](https://github.com/bogdanRada/asana_exception_notifier) allows you to send notifications to Asana when a exception happens in Rails or Rack-based apps by creating a task and uploading exception details to the task
 
-### Some older projects
+### Some older projects ( i am still maintaining them ) 
  - [TaxGenerator](https://github.com/bogdanRada/tax_generator) - taxonomy generator - batch processor that takes 2 xml files as input and generates html files with information from the xml elements and uses concurrent-ruby to generate files in asyncronous way
   - [enhanced_date_select](https://github.com/bogdanRada/enhanced_date_select) An enhanced date select form helper that allows you to use the full HTML specification for date_select helper methods from rails. This is more than what you get with the default Rails date select helper because it can allow values to persist in dropdowns even if you submit a invalid value. 
  - [vagrant-antergos64-gnome-rails](https://github.com/bogdanRada/vagrant-antergos64-gnome-rails) This repo provides a Vagrant configuration for deploying Rails Applications into Antergos 64 VM with Gnome
      - This repo is using a custom vagrant box https://atlas.hashicorp.com/bogdanRada/boxes/antergos64-gnome
-     
+  
+ ### Archived projects
+   - [CelluloidPubsub](https://github.com/bogdanRada/celluloid_pubsub) is a simple ruby implementation of publish subscribe design patterns using celluloid actors and websockets, using Celluloid::Reel server
+   - [CelluloidPubsubRedisAdapter](https://github.com/bogdanRada/celluloid_pubsub_redis_adapter) is a simple ruby implementation of publish subscribe design patterns using celluloid actors and websockets, using Celluloid::Reel server and redis as a publish subscribe backend
+   
+   💬 Feel free to contact me about any problems you have with this projects. I only archived them temporarily because celluloid was archived, but if needed i can un-archive them and fix any bugs you find. Thank you :)  
+  
 ### Projects i contributed to
  - [sprockets-less](https://github.com/lloeki/sprockets-less) - see [PR](https://github.com/lloeki/sprockets-less/pull/5)
  - [sprockets-sass](https://github.com/petebrowne/sprockets-sass) - [PR](https://github.com/petebrowne/sprockets-sass/pull/38) , [PR](https://github.com/petebrowne/sprockets-sass/pull/39), [PR](https://github.com/petebrowne/sprockets-sass/pull/40), [PR](https://github.com/petebrowne/sprockets-sass/pull/41)  
