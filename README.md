@@ -27,8 +27,8 @@ Feel free to go through my projects, the good stuff though are private 😎 ...
 
 - [Ruby gem downloads Badge](https://github.com/bogdanRada/ruby-gem-downloads-badge)
   
- ![](https://ruby-gem-downloads-badge.herokuapp.com/rails?type=total)
- ![](https://ruby-gem-downloads-badge.herokuapp.com/rails?metric=true)
+    -  ![](https://ruby-gem-downloads-badge.herokuapp.com/rails?type=total)
+    -  ![](https://ruby-gem-downloads-badge.herokuapp.com/rails?metric=true)
  
 - [WashOutBuilder](https://github.com/bogdanRada/washout_builder)  is a Soap Service Documentation generator extends WashOut 
     - Check out the demo [here](http://washout-builder.herokuapp.com/)  by clicking on the `Documentation` links 
