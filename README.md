@@ -61,3 +61,5 @@ Feel free to go through my projects, the good stuff though are private 😎 ...
  - [rack-proxy](https://github.com/ncr/rack-proxy) - see [PR](https://github.com/ncr/rack-proxy/pull/55) 
  
 You can read more about what tools i am using on my [Linkedin profile](https://www.linkedin.com/in/radabogdan/)
+
+Also you can check out my other account profile too: ✨ _[softbrada](https://github.com/softbrada)_ ✨ 
