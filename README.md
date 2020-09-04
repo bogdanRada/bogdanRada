@@ -40,5 +40,18 @@ Feel free to go through my projects, the good stuff though are private 😎 ...
   - [enhanced_date_select](https://github.com/bogdanRada/enhanced_date_select) An enhanced date select form helper that allows you to use the full HTML specification for date_select helper methods from rails. This is more than what you get with the default Rails date select helper because it can allow values to persist in dropdowns even if you submit a invalid value. 
  - [vagrant-antergos64-gnome-rails](https://github.com/bogdanRada/vagrant-antergos64-gnome-rails) This repo provides a Vagrant configuration for deploying Rails Applications into Antergos 64 VM with Gnome
      - This repo is using a custom vagrant box https://atlas.hashicorp.com/bogdanRada/boxes/antergos64-gnome
+     
+### Projects i contributed to
+ - [sprockets-less](https://github.com/lloeki/sprockets-less) - see [PR](https://github.com/lloeki/sprockets-less/pull/5)
+ - [sprockets-sass](https://github.com/petebrowne/sprockets-sass) - [PR](https://github.com/petebrowne/sprockets-sass/pull/38) , [PR](https://github.com/petebrowne/sprockets-sass/pull/39), [PR](https://github.com/petebrowne/sprockets-sass/pull/40), [PR](https://github.com/petebrowne/sprockets-sass/pull/41)  
+- [Kansen](https://github.com/valikos/kansen) - see [PR](https://github.com/valikos/kansen/pull/1) 
+ - [jasminerice-runner](https://github.com/gaslight/jasminerice-runner) - see [PR](https://github.com/gaslight/jasminerice-runner/pull/10)
+ - [jquery-selectbox](https://github.com/marcj/jquery-selectBox) - see [PR](https://github.com/marcj/jquery-selectBox/pull/177) 
+ - [wash_out](https://github.com/inossidabile/wash_out) - see [PR](https://github.com/inossidabile/wash_out/pull/234), [PR](https://github.com/inossidabile/wash_out/pull/208)  
+ - [ruby-asana](https://github.com/Asana/ruby-asana) - see [PR](https://github.com/Asana/ruby-asana/pull/52)
+ - [sinatra-asset-pipeline](https://github.com/kalasjocke/sinatra-asset-pipeline) - see [PR](https://github.com/kalasjocke/sinatra-asset-pipeline/pull/60)
+ - [capistrano-gitflow](https://github.com/technicalpickles/capistrano-gitflow) - see [PR](https://github.com/technicalpickles/capistrano-gitflow/pull/11)
+ - [turnout](https://github.com/biola/turnout) - see [PR](https://github.com/biola/turnout/pull/37), [PR](https://github.com/biola/turnout/pull/35) 
+ - [rack-proxy](https://github.com/ncr/rack-proxy) - see [PR](https://github.com/ncr/rack-proxy/pull/55) 
  
 You can read more about what tools i am using on my [Linkedin profile](https://www.linkedin.com/in/radabogdan/)
