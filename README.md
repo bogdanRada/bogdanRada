@@ -33,6 +33,10 @@ Feel free to go through my projects, the good stuff though are private 😎 ...
 - [WashOutBuilder](https://github.com/bogdanRada/washout_builder)  is a Soap Service Documentation generator extends [WashOut](https://github.com/inossidabile/wash_out). Washout is a gem that greatly simplifies creation of SOAP service providers. 
     - Check out the demo [here](http://washout-builder.herokuapp.com/)  by clicking on the `Documentation` links 
     
+- [CelluloidPubsub](https://github.com/bogdanRada/celluloid_pubsub) is a simple ruby implementation of publish subscribe design patterns using celluloid actors and websockets, using Celluloid::Reel server
+
+- [CelluloidPubsubRedisAdapter](https://github.com/bogdanRada/celluloid_pubsub_redis_adapter) is a simple ruby implementation of publish subscribe design patterns using celluloid actors and websockets, using Celluloid::Reel server and redis as a publish subscribe backend
+   
 - [Asana Exception Notifier](https://github.com/bogdanRada/asana_exception_notifier) allows you to send notifications to Asana when a exception happens in Rails or Rack-based apps by creating a task and uploading exception details to the task
 
 ### Some older projects ( i am still maintaining them ) 
@@ -41,12 +45,8 @@ Feel free to go through my projects, the good stuff though are private 😎 ...
  - [vagrant-antergos64-gnome-rails](https://github.com/bogdanRada/vagrant-antergos64-gnome-rails) This repo provides a Vagrant configuration for deploying Rails Applications into Antergos 64 VM with Gnome
      - This repo is using a [custom vagrant box](https://app.vagrantup.com/bogdanRada/boxes/antergos64-gnome)
   
- ### Archived projects
-   - [CelluloidPubsub](https://github.com/bogdanRada/celluloid_pubsub) is a simple ruby implementation of publish subscribe design patterns using celluloid actors and websockets, using Celluloid::Reel server
-   - [CelluloidPubsubRedisAdapter](https://github.com/bogdanRada/celluloid_pubsub_redis_adapter) is a simple ruby implementation of publish subscribe design patterns using celluloid actors and websockets, using Celluloid::Reel server and redis as a publish subscribe backend
+💬 Feel free to contact me about any problems you have with these projects. Thank you :)  
    
-   💬 Feel free to contact me about any problems you have with these projects. I only archived them temporarily because celluloid was archived, but if needed i can un-archive them and fix any bugs you find. Thank you :)  
-  
 ### Projects i contributed to
  - [sprockets-less](https://github.com/lloeki/sprockets-less) - see [PR](https://github.com/lloeki/sprockets-less/pull/5)
  - [sprockets-sass](https://github.com/petebrowne/sprockets-sass) - [PR](https://github.com/petebrowne/sprockets-sass/pull/38) , [PR](https://github.com/petebrowne/sprockets-sass/pull/39), [PR](https://github.com/petebrowne/sprockets-sass/pull/40), [PR](https://github.com/petebrowne/sprockets-sass/pull/41)  
@@ -63,3 +63,5 @@ Feel free to go through my projects, the good stuff though are private 😎 ...
 You can read more about what tools i am using on my [Linkedin profile](https://www.linkedin.com/in/radabogdan/)
 
 Also you can check out my other account profile too: ✨ _[softbrada](https://github.com/softbrada)_ ✨ 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=softbrada)](https://github.com/ryo-ma/github-profile-trophy)
