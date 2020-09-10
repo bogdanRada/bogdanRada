@@ -33,13 +33,13 @@ Feel free to go through my projects, the good stuff though are private 😎 ...
 - [WashOutBuilder](https://github.com/bogdanRada/washout_builder)  is a Soap Service Documentation generator extends [WashOut](https://github.com/inossidabile/wash_out). Washout is a gem that greatly simplifies creation of SOAP service providers. 
     - Check out the demo [here](http://washout-builder.herokuapp.com/)  by clicking on the `Documentation` links 
     
-- [CelluloidPubsub](https://github.com/bogdanRada/celluloid_pubsub) is a simple ruby implementation of publish subscribe design patterns using celluloid actors and websockets, using Celluloid::Reel server
+- [CelluloidPubsub](https://github.com/bogdanRada/celluloid_pubsub) is a simple ruby implementation of publish subscribe design patterns using celluloid actors and websockets.
 
-- [CelluloidPubsubRedisAdapter](https://github.com/bogdanRada/celluloid_pubsub_redis_adapter) is a simple ruby implementation of publish subscribe design patterns using celluloid actors and websockets, using Celluloid::Reel server and redis as a publish subscribe backend
+- [CelluloidPubsubRedisAdapter](https://github.com/bogdanRada/celluloid_pubsub_redis_adapter) is an adapter for [CelluloidPubsub](https://github.com/bogdanRada/celluloid_pubsub) that uses redis as a way to save the messages between actors.
    
-- [Asana Exception Notifier](https://github.com/bogdanRada/asana_exception_notifier) allows you to send notifications to Asana when a exception happens in Rails or Rack-based apps by creating a task and uploading exception details to the task
+- [Asana Exception Notifier](https://github.com/bogdanRada/asana_exception_notifier) allows you to send notifications to Asana when a exception happens in Rails or Rack-based applications
 
-### Some older projects ( i am still maintaining them ) 
+### Some older projects 
  - [TaxGenerator](https://github.com/bogdanRada/tax_generator) - taxonomy generator - batch processor that takes 2 xml files as input and generates html files with information from the xml elements and uses concurrent-ruby to generate files in asyncronous way
   - [enhanced_date_select](https://github.com/bogdanRada/enhanced_date_select) An enhanced date select form helper that allows you to use the full HTML specification for date_select helper methods from rails. 
  - [vagrant-antergos64-gnome-rails](https://github.com/bogdanRada/vagrant-antergos64-gnome-rails) This repo provides a Vagrant configuration for deploying Rails Applications into Antergos 64 VM with Gnome
