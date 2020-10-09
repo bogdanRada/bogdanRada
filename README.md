@@ -60,8 +60,6 @@ Feel free to go through my projects, the good stuff though are private 😎 ...
  - [turnout](https://github.com/biola/turnout) - see [PR](https://github.com/biola/turnout/pull/37), [PR](https://github.com/biola/turnout/pull/35) 
  - [rack-proxy](https://github.com/ncr/rack-proxy) - see [PR](https://github.com/ncr/rack-proxy/pull/55) 
  
-You can read more about what tools i am using on my [Linkedin profile](https://www.linkedin.com/in/radabogdan/)
 
-Also you can check out my other account profile too: ✨ _[softbrada](https://github.com/softbrada)_ ✨ 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=softbrada)](https://github.com/ryo-ma/github-profile-trophy)
+
