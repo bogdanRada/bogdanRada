@@ -60,6 +60,9 @@ Feel free to go through my projects, the good stuff though are private 😎 ...
  - [turnout](https://github.com/biola/turnout) - see [PR](https://github.com/biola/turnout/pull/37), [PR](https://github.com/biola/turnout/pull/35) 
  - [rack-proxy](https://github.com/ncr/rack-proxy) - see [PR](https://github.com/ncr/rack-proxy/pull/55) 
  
+### My other accounts:  
+* [softbrada](https://github.com/softbrada)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=softbrada&row=1&column=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
